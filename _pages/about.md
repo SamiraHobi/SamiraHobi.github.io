@@ -1,15 +1,21 @@
 ---
 layout: about
-title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+title: <strong>Samira</strong> Hobi
+description: <a href=""></a>Zurich, Switzerland
 
+profile:
+  align: right
+  image: prof_pic.jpg
+  address: 
+    <p></p>
+    <p></p>
+   <p></p>
 
-
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: true # includes a list of news items
 social: true  # includes social icons at the bottom of the page
 ---
+
 
 Write your biography here.My name is Samira Hobi and I am a second year Master student in Digital Linguistics at the University of Zurich. I have a strong interest in Low Resource languages, their documentation, digitisation and ethical issues related to these endeavours. If you are interested in this too, I highly recommend checking out [this project](https://www.barngarla.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
