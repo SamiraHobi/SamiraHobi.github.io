@@ -2,12 +2,12 @@
 layout: about
 permalink: /
 title: <strong>Samira</strong> Hobi
-description: <a href=""></a>San Francisco Bay Area, CA
+description: <a href=""></a>Zurich, Switzerland
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: 
+  address: Zurich, Switzerland
     <p></p>
     <p></p>
    <p></p>
