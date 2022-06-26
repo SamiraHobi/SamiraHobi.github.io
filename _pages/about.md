@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Samira</strong> Hobi
-description: <a href=""></a>Zurich, Switzerland
+description: <a href=""></a>San Francisco Bay Area, CA
 
 profile:
   align: right
