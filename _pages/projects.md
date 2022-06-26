@@ -5,7 +5,7 @@ permalink: /projects/
 description: A sneak peak into my work.
 nav: true
 nav_order: 1
-display_categories: [university]
+display_categories: [uni]
 horizontal: false
 ---
 
