@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-06-25 15:59:00-0400
 inline: true
 ---
 
-This is my first academic website.
+Attended LREC in Marseille.
